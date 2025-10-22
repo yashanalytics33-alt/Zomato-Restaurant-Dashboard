@@ -24,4 +24,17 @@ To explore global restaurant performance and customer behavior using visual anal
 - **Power BI** – Dashboard Design, Visualization, KPI Cards  
 - **Power Query** – Data Cleaning & Transformation  
 - **DAX (Data Analysis Expressions)** – Custom Measures & Calculations  
-- **Excel** – Initial Data Preparation & Validation  
+- **Excel** – Initial Data Preparation & Validation
+
+---
+
+## 🚀 How to Use
+
+Download the Zomato_Dashboard.pbix file.
+
+Open it in Power BI Desktop (Free).
+
+Explore the dashboard filters and visualizations interactively.
+
+Use slicers to compare countries, cuisines, and rating segments.
+
