@@ -29,12 +29,9 @@ To explore global restaurant performance and customer behavior using visual anal
 ---
 
 ## 🚀 How to Use
+1. 📂 **Download Power BI File:** [Zomato_Dashboard.pbix](./Zomato_Dashboard.pbix)
+2. Open it in **Power BI Desktop (Free)**.
+3. Explore the dashboard interactively.
 
-Download the Zomato_Dashboard.pbix file.
 
-Open it in Power BI Desktop (Free).
-
-Explore the dashboard filters and visualizations interactively.
-
-Use slicers to compare countries, cuisines, and rating segments.
 
